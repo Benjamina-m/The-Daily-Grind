@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>Our Locations</title>
+</head>
+<body>
+		<center><h1>OUR LOCATIONS</h1></center>
+		<hr>
+		<br>
+		<br>
+		<center><h2>PORT ELIZABETH STORE</h2></center>
+		<center><p>Address:100 Baywest Blvd, Hunters Retreat, Gqeberha, 6017 </p></center>
+		<hr>
+		<br>
+		<br>
+		<center><img src="images/port.jpg""></center>
+		<br>
+		<center><a href="Rosebank Store.html">Visit Our RoseBank Mall Location</a></center>
+		<br>
+		<center><a href="CapeTown Store.html">Visit Our Cape Town Mall Location</a></center>
+		<br>
+		<center><a href="Mainstore.html">Visit Our MainStore(Sandton Mall) Location</a></center>
+		<br>
+
+
+</body>
+</html>
