@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="stles">
+        <meta charset="uft=8">
+        <meta name="viewport" content="width=device-width, initial-scale=1,0">
+        <link rel="stylesheet" type="text/css" href="css/syle.css">
+</head>
+<body>
+            <div class="contact-container">
+                <center>
+                <h1>CONTACT US</h1>
+                
+                    <h3><i><p>We are buzzing to hear from you!</p></i></h3>
+                            <section>
+                                <h2>Address:</h2>
+                                <p>
+                                33 Colerem Street.
+                                <br>
+                                    Sandton South Africa
+                                </p>
+                            </section>
+                            <section>
+                                <h2>Phone:</h2>
+                                <p>063-521-6534</p>
+                            </section>
+                            <section>
+                                <h2>E-mail:</h2>
+                            
+                                <p>dailygrind@gmail.com</p>
+                            </section>
+                            <hr color="brown" size="5">
+                            <h3>Send us a message</h3>
+                                <form>
+                                    <div class="form-group">
+                                        <input type="text" name="name" placeholder="FullName">
+                                        <br><br>
+                                <div class="form-group">
+                                        <input type="email" name="email" placeholder="Email ID">
+                                        <br>
+                                        <textarea placeholder="Message" rows="4"required></textarea>
+                                        <br>
+                                        <button type="submit">SEND MESSAGE</button>
+                            </center>
+                            </div>
+                            </div>
+                            </form>
+                            </div>
+                            </div>
+                            </div>
+                            </section>
+
+                    
+</body>
+</html>
+
