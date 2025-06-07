@@ -1,0 +1,68 @@
+<html>
+<head>
+	<title>Coffee Delights</title>
+</head>
+<header>
+<center><h1>The Dialy Grind Coffee Shop</h1></center>
+</header>
+<body background-image src="image1,jpg">
+<section id="hero">
+	<img src="coffee.jpg" alt="Coffee Image">
+	<h1>Fuel Your Day</h1>
+	<button>Shop Now</button>
+</section>
+
+<Featured Coffee Products>
+<section id="products">
+	<h2>Featured Coffees</h2>
+	<div class="product">
+		<img src="product1.jpg" alt="Product 1">
+		<h3>Coffee 1</h3>
+		<p>R50</p>
+	</div>
+	<div class="product">
+		<img src="product2.jpg" alt="Product 2">
+		<h3>Coffee 2</h3>
+		<p>R60</p>
+	</div>
+	<div class="product">
+		<img src="product3.jpg" alt="Product 3">
+		<h3>Coffee 3</h3>
+		<p>R70</p>
+	</div>
+</section>
+
+<!-- Special Offers or Discounts -->
+<section id="offers">
+	<h2>Special Offers</h2>
+	<div class="offer">
+		<h3>Buy One Get One Free</h3>
+		<p>On all single-origin coffees</p>
+	</div>
+	<div class="offer">
+		<h3>20% Off</h3>
+		<p>On all coffee subscriptions</p>
+	</div>
+</section>
+
+<!-- Coffee Tips -->
+<section id="tips">
+	<h2>Coffee Tips</h2>
+	<div class="tip">
+		<h3>The Perfect Pour-Over</h3>
+		<p>Learn how to brew the perfect cup</p>
+	</div>
+	<div class="tip">
+		<h3>Coffee and Food Pairing 101</h3>
+		<p>Discover the art of pairing coffee with food</p>
+	</div>
+</section>
+
+<!-- Sustainability or Ethical Info -->
+<section id="sustainability">
+	<h2>Our Commitment to Sustainability</h2>
+	<p>We source our coffee beans from environmentally friendly farms and work with fair trade partners.</p>
+</section>
+
+</body>
+</html>
